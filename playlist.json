@@ -1,0 +1,38 @@
+[
+  {
+    "name": "🇵🇭 GMA 7",
+    "url": "https://rise2the.top/secure/1781426218/CynnPMI0DB25Y_Scr3LHyw/live/136.239.173.2:6610/001/2/ch00000090990000001093/sec-f2-v1-a1.m3u8?JITPDRMType=NO&IASHttpSessionId=OTT119761120260614023659108594&AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001093",
+    "logo": "https://i.imgur.com/Cu1tAY8.png",
+    "category": "Local"
+  },
+  {
+    "name": "🇵🇭 TV5",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd",
+    "logo": "https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png",
+    "category": "Local"
+  },
+  {
+    "name": "🇵🇭 A2Z",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd",
+    "logo": "https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png",
+    "category": "Local"
+  },
+  {
+    "name": "🇵🇭 PTV4",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd",
+    "logo": "https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png",
+    "category": "News"
+  },
+  {
+    "name": "🇵🇭 IBC 13",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png",
+    "category": "Local"
+  },
+  {
+    "name": "📰 CNN International",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN_International_logo.svg",
+    "category": "News"
+  }
+]
