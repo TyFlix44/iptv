@@ -1,17 +1,24 @@
 [
-  {
-    "name": "🇵🇭 GMA 7",
-    "url": "https://rise2the.top/secure/1781426218/CynnPMI0DB25Y_Scr3LHyw/live/136.239.173.2:6610/001/2/ch00000090990000001093/sec-f2-v1-a1.m3u8?JITPDRMType=NO&IASHttpSessionId=OTT119761120260614023659108594&AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001093",
+   {
+    "id": "gma-7",
+    "name": "GMA 7",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/Cu1tAY8.png",
-    "category": "Local"
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd"
   },
-
-
+    {
+    "id": "a2z",
+    "name": "A2Z",
+    "category": "IWatchTv",
+    "logo": "https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd"
+  },
   {
-    "name": "🇵🇭 GTV",
-    "url": "https://rise2the.top/secure/1781432563/17pt7q-3DGvUi93VGVyKdA/live/136.239.173.2:6610/001/2/ch00000090990000001143/sec-f2-v1-a1.m3u8?JITPDRMType=NO&IASHttpSessionId=OTT119915520260614042243103308&AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArwAtJC%2BsmBQ5ARU076BdkhsyK4TH4mOENKJ45mwOyS0g%3D%3D&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001143",
-    "logo": "https://iyadtv.pages.dev/images/gtv_114.png",
-    "category": "News"
+    "id": "tv5",
+    "name": "TV5",
+    "category": "IWatchTv",
+    "logo": "https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd"
   },
   {
     "id": "star-television",
