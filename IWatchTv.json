@@ -1,5 +1,5 @@
 [
-  { "id": "gma_pinoy", "name": "GMA Pinoy", "category": "IWatchTv", "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd", "drm": { "clearkey": { "keys": { "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981" } } } },
+  { "id": "gma_pinoy", "name": "GMA Pinoy", "category": "Tv Channels", "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd", "drm": { "clearkey": { "keys": { "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981" } } } },
   { "id": "gma_life", "name": "GMA Life", "category": "IWatchTv", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/330px-GMA_Life_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd", "drm": { "clearkey": { "keys": { "5d308ef487f54107b7da758e195ecbd3": "9d4004d4c065dd4b85ad5bd12c35386f" } } } },
   { "id": "gma_news", "name": "GMA News", "category": "IWatchTv", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/GMA_News_2026_logo.svg/1280px-GMA_News_2026_logo.svg.png", "url": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd", "drm": { "clearkey": { "keys": { "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855" } } } },
     {
@@ -9,137 +9,135 @@
     "logo": "https://i.imgur.com/Cu1tAY8.png",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd"
   },
-    {
-    "id": "a2z",
-    "name": "A2Z",
-    "category": "IWatchTv",
-    "logo": "https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828",
-    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd"
-  },
-  {
-    "id": "tv5",
-    "name": "TV5",
-    "category": "IWatchTv",
-    "logo": "https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126",
-    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd"
-  },
+  { "id": "tv5", "name": "TV5", "category": "Tv Channels", "logo": "https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd", "drm": { "clearkey": { "keys": { "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d" } } } },
+  { "id": "a2z", "name": "A2Z", "category": "Tv Channels", "logo": "https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828", "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd", "drm": { "clearkey": { "keys": { "3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d": "4019f9269b9054a2b9e257b114ebbaf2" } } } },
+  { "id": "bilyonaryo_channel", "name": "Bilyonaryo Channel", "category": "News", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index.mpd", "drm": { "clearkey": { "keys": { "227ffaf09bec4a889e0e0988704d52a2": "b2d0dce5c486891997c1c92ddaca2cd2" } } } },
+  { "id": "tvn_movies_pinoy", "name": "tvN Movies Pinoy", "category": "Tv Channels", "logo": "https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd", "drm": { "clearkey": { "keys": { "2e53f8d8a5e94bca8f9a1e16ce67df33": "3471b2464b5c7b033a03bb8307d9fa35" } } } },
+    { "id": "myx", "name": "MYX", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS47XgqGjIOjtTs2z7_UvJigonHRYG_Y7BgcXEiJtEA&s=10", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/9e082ce2-dca1-457a-8511-9e861102f561/index.mpd", "drm": { "clearkey": { "keys": { "f40a52a3ac9b4702bdd5b735d910fd2f": "35e4893c6e76546085941be3010932d4" } } } },
+  { "id": "movies_now", "name": "Movies Now", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHdOEgVOsdURr5SwJg-k6trNOtLJXCuWNK5g_S3rqkw&s=10", "url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd", "drm": { "clearkey": { "keys": { "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e" } } } },
+  { "id": "one_ph", "name": "One PH", "category": "Tv Channels", "logo": "https://i.imgur.com/gkluDe9.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd", "drm": { "clearkey": { "keys": { "b1c7e9d24f8a4d6c9e337a2f1c5b8d60": "8ff2e524cc1e028f2a4d4925e860c796" } } } },
+  { "id": "buko", "name": "BuKO", "category": "Tv Channels", "logo": "https://i.imgur.com/Wv0K5Yc.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd", "drm": { "clearkey": { "keys": { "d273c085f2ab4a248e7bfc375229007d": "7932354c3a84f7fc1b80efa6bcea0615" } } } },
+  { "id": "sari_sari", "name": "SARI-SARI", "category": "Tv Channels", "logo": "https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd", "drm": { "clearkey": { "keys": { "0a7ab3612f434335aa6e895016d8cd2d": "b21654621230ae21714a5cab52daeb9d" } } } },
+  { "id": "ptv4", "name": "PTV4", "category": "Tv Channels", "logo": "https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428", "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd", "drm": { "clearkey": { "keys": { "71a130a851b9484bb47141c8966fb4a3": "ad1f003b4f0b31b75ea4593844435600" } } } },
+  { "id": "one_news", "name": "One News", "category": "Tv Channels", "logo": "https://i.imgur.com/bpRiu54.png", "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd", "drm": { "clearkey": { "keys": { "2e6a9d7c1f4b4c8a8d33c7b1f0a5e924": "4c71e178d090332fbfe72e023b59f6d2" } } } },
+  { "id": "rptv", "name": "RPTV", "category": "Tv Channels", "logo": "https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432", "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd", "drm": { "clearkey": { "keys": { "1917f4caf2364e6d9b1507326a85ead6": "a1340a251a5aa63a9b0ea5d9d7f67595" } } } },
     {
     "id": "star-television",
     "name": "Star Television",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/QalEBc8.jpeg",
     "url": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "sine-plus",
     "name": "Sine Plus",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/FeS4yxK.jpeg",
     "url": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "hype-tv",
     "name": "HYPE TV",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/NNnsdbD.jpeg",
     "url": "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "dream-tv-ph",
     "name": "DREAM TV PH",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/9rqEsdO.jpeg",
     "url": "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "3rs-sine-pinoy",
     "name": "3rsSinePinoy",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/OCS1l7G.jpeg",
     "url": "https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8"
   },
   {
     "id": "3rs-tv",
     "name": "3RS TV",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/50RyQA7.jpeg",
     "url": "https://3rstv.elektriko4444.workers.dev/peanut.m3u8"
   },
   {
     "id": "3rs-movie-box",
     "name": "3rsMovieBox",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/b4rjf8n.png",
     "url": "https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8"
   },
   {
     "id": "3rs-cartoon",
     "name": "3rsCartoon",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/OMGlC4R.png",
     "url": "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
   },
   {
     "id": "highlights-tv",
     "name": "HIGHLIGHTS TV",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/asAaM1v.jpeg",
     "url": "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "star-tv-philippines",
     "name": "STAR TV PHILIPPINES",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/1nrklyJ.jpeg",
     "url": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "sdtv",
     "name": "SDTV",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/ZOWTvgq.jpeg",
     "url": "https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "philippines-tv-network",
     "name": "PHILIPPINES TELEVISION NETWORK",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/nDPA6RL.jpeg",
     "url": "https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "jpv-tv",
     "name": "JPV TV",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/0F24XGc.jpeg",
     "url": "https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live.m3u8"
   },
   {
     "id": "jpv-tv-24-7",
     "name": "JPV TV (24/7)",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/0F24XGc.jpeg",
     "url": "https://jpvtvph.itunerworldwide.workers.dev/jpv.live.m3u8"
   },
   {
     "id": "asia-flix-tv",
     "name": "ASIA FLIX TV",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/FpaSujC.jpeg",
     "url": "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "durian-tv",
     "name": "DURIAN TV",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/hT3QCdL.jpeg",
     "url": "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "id": "dreamstar-tv",
     "name": "DREAMSTAR TV",
-    "category": "Collab Channels",
+    "category": "IWatchTv",
     "logo": "https://i.imgur.com/yCOseiR.jpeg",
     "url": "https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8"
-  }
+  },
 ]
