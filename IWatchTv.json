@@ -1,0 +1,145 @@
+  [
+  { "id": "gma_pinoy", "name": "GMA Pinoy", "category": "IWatchTv", "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd", "drm": { "clearkey": { "keys": { "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981" } } } },
+  { "id": "gma_life", "name": "GMA Life", "category": "IWatchTv", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/330px-GMA_Life_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd", "drm": { "clearkey": { "keys": { "5d308ef487f54107b7da758e195ecbd3": "9d4004d4c065dd4b85ad5bd12c35386f" } } } },
+  { "id": "gma_news", "name": "GMA News", "category": "IWatchTv", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/GMA_News_2026_logo.svg/1280px-GMA_News_2026_logo.svg.png", "url": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd", "drm": { "clearkey": { "keys": { "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855" } } } },
+    {
+    "id": "gma-7",
+    "name": "GMA 7",
+    "category": "IWatchTv",
+    "logo": "https://i.imgur.com/Cu1tAY8.png",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd"
+  },
+    {
+    "id": "a2z",
+    "name": "A2Z",
+    "category": "IWatchTv",
+    "logo": "https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd"
+  },
+  {
+    "id": "tv5",
+    "name": "TV5",
+    "category": "IWatchTv",
+    "logo": "https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd"
+  },
+    {
+    "id": "star-television",
+    "name": "Star Television",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/QalEBc8.jpeg",
+    "url": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "sine-plus",
+    "name": "Sine Plus",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/FeS4yxK.jpeg",
+    "url": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "hype-tv",
+    "name": "HYPE TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/NNnsdbD.jpeg",
+    "url": "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "dream-tv-ph",
+    "name": "DREAM TV PH",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/9rqEsdO.jpeg",
+    "url": "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "3rs-sine-pinoy",
+    "name": "3rsSinePinoy",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/OCS1l7G.jpeg",
+    "url": "https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8"
+  },
+  {
+    "id": "3rs-tv",
+    "name": "3RS TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/50RyQA7.jpeg",
+    "url": "https://3rstv.elektriko4444.workers.dev/peanut.m3u8"
+  },
+  {
+    "id": "3rs-movie-box",
+    "name": "3rsMovieBox",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/b4rjf8n.png",
+    "url": "https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8"
+  },
+  {
+    "id": "3rs-cartoon",
+    "name": "3rsCartoon",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/OMGlC4R.png",
+    "url": "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
+  },
+  {
+    "id": "highlights-tv",
+    "name": "HIGHLIGHTS TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/asAaM1v.jpeg",
+    "url": "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "star-tv-philippines",
+    "name": "STAR TV PHILIPPINES",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/1nrklyJ.jpeg",
+    "url": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "sdtv",
+    "name": "SDTV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/ZOWTvgq.jpeg",
+    "url": "https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "philippines-tv-network",
+    "name": "PHILIPPINES TELEVISION NETWORK",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/nDPA6RL.jpeg",
+    "url": "https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "jpv-tv",
+    "name": "JPV TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/0F24XGc.jpeg",
+    "url": "https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live.m3u8"
+  },
+  {
+    "id": "jpv-tv-24-7",
+    "name": "JPV TV (24/7)",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/0F24XGc.jpeg",
+    "url": "https://jpvtvph.itunerworldwide.workers.dev/jpv.live.m3u8"
+  },
+  {
+    "id": "asia-flix-tv",
+    "name": "ASIA FLIX TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/FpaSujC.jpeg",
+    "url": "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "durian-tv",
+    "name": "DURIAN TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/hT3QCdL.jpeg",
+    "url": "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "dreamstar-tv",
+    "name": "DREAMSTAR TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/yCOseiR.jpeg",
+    "url": "https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  ]
