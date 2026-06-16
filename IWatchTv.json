@@ -34,13 +34,7 @@
     "logo": "https://i.imgur.com/FeS4yxK.jpeg",
     "url": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
   },
-  {
-    "id": "all-tv",
-    "name": "ALL TV",
-    "category": "IWatchTv",
-    "logo": "https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp",
-    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd"
-  },
+
   {
     "id": "hype-tv",
     "name": "HYPE TV",
@@ -554,18 +548,12 @@
   },
   {
     "id": "all_tv",
-    "name": "ALL TV",
-    "category": "Tv Channels",
+    "name": "ALLTV2",
+    "category": "IWatchTv",
     "logo": "https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp",
     "url": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
-  {
-    "id": "filam_tv",
-    "name": "Filam TV",
-    "category": "Tv Channels",
-    "logo": "",
-    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
+
   {
     "id": "lotus_macao",
     "name": "Lotus Macao",
@@ -848,22 +836,6 @@
     }
   },
 
-  
-  {
-    "id": "kix",
-    "name": "KIX",
-    "category": "Tv Channels",
-    "logo": "https://i.imgur.com/B8Fmzer.png",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd",
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "c9d4b7a18e2f4d6c9a103f5b7e1c2d88": "7f3139092bf87d8aa51ee40e6294d376"
-        }
-      }
-    }
-  },
-  
   {
     "id": "tvn_premium",
     "name": "tvN Premium",
@@ -936,20 +908,7 @@
       }
     }
   },
-  {
-    "id": "spotv",
-    "name": "SPOTV",
-    "category": "Tv Channels",
-    "logo": "https://linear-poster.astro.com.my/prod/logo/SPOTV.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
-        }
-      }
-    }
-  },
+
   
   {
     "id": "premier_sports_2",
@@ -994,20 +953,7 @@
       }
     }
   },
-  {
-    "id": "food_network",
-    "name": "Food Network",
-    "category": "Tv Channels",
-    "logo": "https://i.imgur.com/vucZeKB.png",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd",
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "4a9d2f7c1e6b4c8d8a55d7b1e3f0c926": "2e62531bdb450480a18197b14f4ebc77"
-        }
-      }
-    }
-  },
+
   {
     "id": "axn",
     "name": "AXN",
@@ -1023,35 +969,6 @@
     }
   },
 
-
-  {
-    "id": "bbc_news",
-    "name": "BBC News",
-    "category": "Tv Channels",
-    "logo": "https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo-500x281.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd",
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "f59650be475e4c34a844d4e2062f71f3": "119639e849ddee96c4cec2f2b6b09b40"
-        }
-      }
-    }
-  },
-  {
-    "id": "cartoon_network",
-    "name": "Cartoon Network",
-    "category": "Tv Channels",
-    "logo": "https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd",
-    "drm": {
-      "clearkey": {
-        "keys": {
-          "a2d1f552ff9541558b3296b5a932136b": "cdd48fa884dc0c3a3f85aeebca13d444"
-        }
-      }
-    }
-  },
   {
     "id": "tapsilog",
     "name": "TAP SILOG",
