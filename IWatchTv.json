@@ -1,4 +1,11 @@
 [
+{
+    "id": "iwatchtv",
+    "name": "IWatchTV,
+    "category": "IWatchTv",
+    "logo": "https://imgur.com/a/04XHjAa.png",
+    "url": "https://san-mateo-cable.ostamark484.workers.dev/SINEPLUS.m3u8"
+  },
   {
     "id": "star-television",
     "name": "Star Television",
@@ -19,6 +26,13 @@
     "category": "IWatchTv",
     "logo": "https://i.imgur.com/ZOWTvgq.jpeg",
     "url": "https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+    {
+    "id": "all_tv",
+    "name": "ALLTV2",
+    "category": "IWatchTv",
+    "logo": "https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp",
+    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
   {
     "id": "philippines-tv-network",
@@ -91,20 +105,7 @@
     "logo": "https://i.imgur.com/1nrklyJ.jpeg",
     "url": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
   },
-  {
-    "id": "jpv-tv",
-    "name": "JPV TV",
-    "category": "IWatchTv",
-    "logo": "https://i.imgur.com/0F24XGc.jpeg",
-    "url": "https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live.m3u8"
-  },
-  {
-    "id": "jpv-tv-24-7",
-    "name": "JPV TV (24/7)",
-    "category": "IWatchTv",
-    "logo": "https://i.imgur.com/0F24XGc.jpeg",
-    "url": "https://jpvtvph.itunerworldwide.workers.dev/jpv.live.m3u8"
-  },
+
   {
     "id": "asia-flix-tv",
     "name": "ASIA FLIX TV",
@@ -119,7 +120,42 @@
     "logo": "https://i.imgur.com/hT3QCdL.jpeg",
     "url": "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
   },
+    {
+    "id": "jpv-tv",
+    "name": "JPV TV",
+    "category": "IWatchTv",
+    "logo": "https://i.imgur.com/0F24XGc.jpeg",
+    "url": "https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live.m3u8"
+  },
+  {
+    "id": "jpv-tv-24-7",
+    "name": "JPV TV (24/7)",
+    "category": "IWatchTv",
+    "logo": "https://i.imgur.com/0F24XGc.jpeg",
+    "url": "https://jpvtvph.itunerworldwide.workers.dev/jpv.live.m3u8"
+  },
   { "id": "tfc_asia_2", "name": "TFC Asia", "category": "Tv Channels", "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/6b2e33be-adcd-40ae-a23a-61729ddb9398/index.mpd", "drm": { "clearkey": { "keys": { "9568cc84e1d944f38eac304517eab6fd": "2c8306892361e3fba18cb142f31ec775" } } } },
+    {
+    "id": "abante-tv",
+    "name": "ABANTE",
+    "category": "Tv Channels",
+    "logo": "https://imgur.com/a/OEk47Cj.png",
+    "url": "https://streams.comclark.com/transcodesd/abante/playlist.m3u8"
+  },
+      {
+    "id": "aisiancrush-tv",
+    "name": "AsianCrush",
+    "category": "Tv Channels",
+    "logo": "https://imgur.com/a/Yt0L5Fa.png",
+    "url": "https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8"
+  },
+      {
+    "id": "redbull-tv",
+    "name": "REDBULL TV",
+    "category": "Tv Channels",
+    "logo": "https://imgur.com/a/zuOem0L.png",
+    "url": "https://d3k3xxewhm1my2.cloudfront.net/playlist_1920x1080.m3u8"
+  },
   { "id": "kapamilya", "name": "Kapamilya", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_lAQAm3tHB_kvFBpnLwpM4kQnRmMg8kJAA&s", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/0658dc63-df4c-4ed6-ab72-8b7c39f2c13f/index.mpd", "drm": { "clearkey": { "keys": { "bd17afb5dc9648a39be79ee3634dd4b8": "b475084a1a58857e18480e30fbb0e544" } } } },
   { "id": "gma_pinoy", "name": "GMA Pinoy", "category": "Tv Channels", "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd", "drm": { "clearkey": { "keys": { "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981" } } } },
   { "id": "gma_life", "name": "GMA Life", "category": "Tv Channels", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/330px-GMA_Life_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd", "drm": { "clearkey": { "keys": { "5d308ef487f54107b7da758e195ecbd3": "9d4004d4c065dd4b85ad5bd12c35386f" } } } },
@@ -129,7 +165,13 @@
   { "id": "dzmm_teleradyo", "name": "DZMM TeleRadyo", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkpVt9uTt9izp0qiXdSPZHmjCBYGu_MDG9_ZgLPU-4A&s=10", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/c60be0fd-e4f6-463b-bcfc-f81b99e2bb46/index.mpd", "drm": { "clearkey": { "keys": { "47c093e0c9fd4f80839a0337da3dd876": "603248b858276f533a13e17f2f48c711" } } } },
   { "id": "cinema_one_ph", "name": "Cinema One PH", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-_E4uHLFlC4ddwrEV5sD35RzV68aNyJo6c7fgtU-ww&s=10", "url": "https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd", "drm": { "clearkey": { "keys": { "55eddd1e157e4c3b830866e4679e7032": "525030e984567ba8df0af80660952368" } } } },
   { "id": "cinema_one_global", "name": "Cinema One Global", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-_E4uHLFlC4ddwrEV5sD35RzV68aNyJo6c7fgtU-ww&s=10", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/f9468bfb-cac7-4752-829b-04bc0c6e8cc1/index.mpd", "drm": { "clearkey": { "keys": { "58d0e56991194043b8fb82feb4db7276": "c116c612201e178193693eced13d7319" } } } },
-  { "id": "cinemo", "name": "Cinemo", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Z0My3pXCvtgiJH1p7abK8LJ1z2tSJx_MSmAgxlIO0g&s=10", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/23def904-e032-4cfa-80b0-68e111537206/index.mpd", "drm": { "clearkey": { "keys": { "aa8aebe35ccc4541b7ce6292efcb1bfb": "f06b6031a3604cc6708c14d83f1a1b27" } } } },
+  {
+    "id": "cinemo",
+    "name": "Cinemo",
+    "category": "Tv Channels",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Z0My3pXCvtgiJH1p7abK8LJ1z2tSJx_MSmAgxlIO0g&s=10",
+    "url": "https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_2.m3u8"
+  },
   { "id": "myx", "name": "MYX", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS47XgqGjIOjtTs2z7_UvJigonHRYG_Y7BgcXEiJtEA&s=10", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/9e082ce2-dca1-457a-8511-9e861102f561/index.mpd", "drm": { "clearkey": { "keys": { "f40a52a3ac9b4702bdd5b735d910fd2f": "35e4893c6e76546085941be3010932d4" } } } },
   { "id": "movies_now", "name": "Movies Now", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHdOEgVOsdURr5SwJg-k6trNOtLJXCuWNK5g_S3rqkw&s=10", "url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd", "drm": { "clearkey": { "keys": { "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e" } } } },
   { "id": "one_ph", "name": "One PH", "category": "Tv Channels", "logo": "https://i.imgur.com/gkluDe9.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd", "drm": { "clearkey": { "keys": { "b1c7e9d24f8a4d6c9e337a2f1c5b8d60": "8ff2e524cc1e028f2a4d4925e860c796" } } } },
@@ -520,13 +562,7 @@
     "logo": "https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",
     "url": "http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
-  {
-    "id": "all_tv",
-    "name": "ALLTV2",
-    "category": "IWatchTv",
-    "logo": "https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp",
-    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
+
 
   {
     "id": "lotus_macao",
