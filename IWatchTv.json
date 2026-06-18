@@ -1,11 +1,11 @@
 [
 {
-    "id": "iwatch-tv",
-    "name": "IWatch Tv",
-    "category": "IWatchTv",
-    "logo": "https://imgur.com/a/04XHjAa.png",
-    "url": "https://san-mateo-cable.ostamark484.workers.dev/SINEPLUS.m3u8"
-  },
+  "id": "iwatchtv",
+  "name": "IWatchTV",
+  "category": "IWatchTv",
+  "logo": "https://i.imgur.com/04XHjAa.png",
+  "url": "https://san-mateo-cable.ostamark484.workers.dev/SINEPLUS.m3u8"
+},
   {
     "id": "star-television",
     "name": "Star Television",
