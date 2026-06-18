@@ -146,14 +146,14 @@
     "id": "aisiancrush-tv",
     "name": "AsianCrush",
     "category": "Tv Channels",
-    "logo": "https://i.imgur.com/a/Yt0L5Fa.png",
+    "logo": "https://i.imgur.com/wEkRPCH.jpeg",
     "url": "https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8"
   },
       {
     "id": "redbull-tv",
     "name": "REDBULL TV",
     "category": "Tv Channels",
-    "logo": "https://i.imgur.com/a/zuOem0L.png",
+    "logo": "https://i.imgur.com/uduqC1o_d.webp?maxwidth=760&fidelity=grand",
     "url": "https://d3k3xxewhm1my2.cloudfront.net/playlist_1920x1080.m3u8"
   },
         {
@@ -169,6 +169,27 @@
     "category": "Tv Channels",
     "logo": "https://i.imgur.com/DsqZ6ip.png",
     "url": "http://136.239.240.67:8081/tap/program4/playlist.m3u8"
+  },
+  {
+    "id": "cartoon-tv",
+    "name": "CARTOON CHANNEL PH",
+    "category": "Tv Channels",
+    "logo": "https://i.imgur.com/Flkolfb_d.webp?maxwidth=760&fidelity=grand",
+    "url": "https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8"
+  },
+    {
+    "id": "-tv",
+    "name": "FIGHT+",
+    "category": "Tv Channels",
+    "logo": "https://i.imgur.com/0KO1ggb.png",
+    "url": "http://136.239.240.67:8081/tap/program6/playlist.m3u8"
+  },
+    {
+    "id": "-tv",
+    "name": "PARAMOUNT",
+    "category": "Tv Channels",
+    "logo": "https://i.imgur.com/sj5h9bl.png",
+    "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8"
   },
   { "id": "kapamilya", "name": "Kapamilya", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_lAQAm3tHB_kvFBpnLwpM4kQnRmMg8kJAA&s", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/0658dc63-df4c-4ed6-ab72-8b7c39f2c13f/index.mpd", "drm": { "clearkey": { "keys": { "bd17afb5dc9648a39be79ee3634dd4b8": "b475084a1a58857e18480e30fbb0e544" } } } },
   { "id": "gma_pinoy", "name": "GMA Pinoy", "category": "Tv Channels", "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd", "drm": { "clearkey": { "keys": { "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981" } } } },
