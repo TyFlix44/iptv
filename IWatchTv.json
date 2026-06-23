@@ -1,11 +1,11 @@
 [
 {
-  "id": "iwatchtv",
-  "name": "IWatchTV",
-  "category": "IWatchTv",
-  "logo": "https://i.imgur.com/ESZWgjj.png",
-  "url": "https://san-mateo-cable.ostamark484.workers.dev/SINEPLUS.m3u8"
-},
+    "id": "iwatchtv",
+    "name": "IWatchTV,
+    "category": "IWatchTv",
+    "logo": "https://imgur.com/a/04XHjAa.png",
+    "url": "https://san-mateo-cable.ostamark484.workers.dev/SINEPLUS.m3u8"
+  },
   {
     "id": "star-television",
     "name": "Star Television",
@@ -39,7 +39,7 @@
     "name": "PHILIPPINES TELEVISION NETWORK",
     "category": "IWatchTv",
     "logo": "https://i.imgur.com/nDPA6RL.jpeg",
-    "url": "https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8"
+    "url": "https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8"
   },
   {
     "id": "sine-plus",
@@ -139,57 +139,22 @@
     "id": "abante-tv",
     "name": "ABANTE",
     "category": "Tv Channels",
-    "logo": "https://i.imgur.com/nB5WWVj.jpeg",
+    "logo": "https://imgur.com/a/OEk47Cj.png",
     "url": "https://streams.comclark.com/transcodesd/abante/playlist.m3u8"
   },
       {
     "id": "aisiancrush-tv",
     "name": "AsianCrush",
     "category": "Tv Channels",
-    "logo": "https://i.imgur.com/wEkRPCH.jpeg",
+    "logo": "https://imgur.com/a/Yt0L5Fa.png",
     "url": "https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8"
   },
       {
     "id": "redbull-tv",
     "name": "REDBULL TV",
     "category": "Tv Channels",
-    "logo": "https://i.imgur.com/uduqC1o_d.webp?maxwidth=760&fidelity=grand",
+    "logo": "https://imgur.com/a/zuOem0L.png",
     "url": "https://d3k3xxewhm1my2.cloudfront.net/playlist_1920x1080.m3u8"
-  },
-        {
-    "id": "realblast-tv",
-    "name": "REAL BLAST",
-    "category": "Tv Channels",
-    "logo": "https://i.imgur.com/DsqZ6ip.png",
-    "url":  "http://136.239.240.67:8081/tap/program5/playlist.m3u8"
-  },
-  {
-    "id": "realblast-tv",
-    "name": "BLAST MOVIES",
-    "category": "Tv Channels",
-    "logo": "https://i.imgur.com/DsqZ6ip.png",
-    "url": "http://136.239.240.67:8081/tap/program4/playlist.m3u8"
-  },
-  {
-    "id": "cartoon-tv",
-    "name": "CARTOON CHANNEL PH",
-    "category": "Tv Channels",
-    "logo": "https://i.imgur.com/Flkolfb_d.webp?maxwidth=760&fidelity=grand",
-    "url": "https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8"
-  },
-    {
-    "id": "-tv",
-    "name": "FIGHT+",
-    "category": "Tv Channels",
-    "logo": "https://i.imgur.com/0KO1ggb.png",
-    "url": "http://136.239.240.67:8081/tap/program6/playlist.m3u8"
-  },
-    {
-    "id": "-tv",
-    "name": "PARAMOUNT",
-    "category": "Tv Channels",
-    "logo": "https://i.imgur.com/sj5h9bl.png",
-    "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8"
   },
   { "id": "kapamilya", "name": "Kapamilya", "category": "Tv Channels", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_lAQAm3tHB_kvFBpnLwpM4kQnRmMg8kJAA&s", "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/0658dc63-df4c-4ed6-ab72-8b7c39f2c13f/index.mpd", "drm": { "clearkey": { "keys": { "bd17afb5dc9648a39be79ee3634dd4b8": "b475084a1a58857e18480e30fbb0e544" } } } },
   { "id": "gma_pinoy", "name": "GMA Pinoy", "category": "Tv Channels", "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png", "url": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd", "drm": { "clearkey": { "keys": { "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981" } } } },
@@ -429,6 +394,18 @@
     "logo": "https://i.imgur.com/x1wehbs.png",
     "url": "http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
+  {
+    "id": "wil_tv",
+    "name": "Wil TV",
+    "category": "Tv Channels",
+    "logo": "https://static.wikia.nocookie.net/tv-philippines/images/4/43/WILTV_logo.png/revision/latest?cb=20251214021032",
+    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd",
+    "drm": { "clearkey": { "keys": { "b1773d6f982242cdb0f694546a3db26f": "ae9a90dbea78f564eb98fe817909ec9a" } } }
+  },
+  { "id": "hits_now", "name": "HITS Now", "category": "Tv Channels", "logo": "https://aqfadtv.xyz/logos/HITSNow.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd", "drm": { "clearkey": { "keys": { "f9c3d6b18a2e4d7f9e453b1a8c6d2f70": "ce8874347ec428c624558dcdc3575dd4" } } } 
+  },
+    { "id": "hits_movies", "name": "HITS Movies", "category": "Tv Channels", "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.mpd", "drm": { "clearkey": { "keys": { "f56b57b32d7e4b2cb21748c0b56761a7": "3df06a89aa01b32655a77d93e09e266f" } } }
+    },
   {
     "id": "premier_football",
     "name": "Premier Football",
